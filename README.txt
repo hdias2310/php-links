@@ -23,4 +23,3 @@
   - Video demo: Show Pipeline running -> https://youtu.be/eiMGuq-BIRo
   - Video demo: Show Branch Pipeline  -> https://youtu.be/6ezj-VqWHD0
   - Video Apresentação dos demos ao vivo -> http://bit.ly/2FW61XP - start at - 1:11:30
-
