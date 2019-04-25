@@ -7,7 +7,7 @@
    - Add SonarQube Server
    - In SonarQube, get your token (myAccount > Security > Generate Token)
 
- Slack + Jenkins
+ Slack + Jenkins 
 
   - Configure plugin and channel (This only post messages on slack)
 
