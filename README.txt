@@ -8,7 +8,7 @@
    - In SonarQube, get your token (myAccount > Security > Generate Token)
 
  Slack + Jenkins 
-sdfsdfg
+
   - Configure plugin and channel (This only post messages on slack)
 
   - Use a function to send json and parse other variables to slack. e.g: https://raw.githubusercontent.com/juniorjbn/php-test/funcao/post_jenkins.php
