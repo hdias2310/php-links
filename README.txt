@@ -16,7 +16,7 @@
   - Create an APP on slack to POST on this function
 
  Openshift + Jenkins
-
+ 
   - Configure plugin to allow jenkins controll openshift behavior
 
 
